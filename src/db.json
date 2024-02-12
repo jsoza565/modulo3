@@ -1,0 +1,60 @@
+{
+  "estudiantes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Perez Alba",
+      "edad": 19,
+      "carrera": "Ingenieria de Sistemas"
+    },
+    {
+      "id": 2,
+      "nombre": "Esteban",
+      "apellido": "Arce Vargas",
+      "edad": 18,
+      "carrera": "Ingenieria de Sistemas"
+    },
+    {
+      "id": "5f64",
+      "nombre": "Andrea",
+      "apellido": "Valderrama Parra",
+      "edad": 18,
+      "carrera": "Ingenieria de Sistemas"
+    },
+    {
+      "id": "cfd8",
+      "nombre": "Fernando",
+      "apellido": "Vega Martinez",
+      "edad": "19",
+      "carrera": "Medicina"
+    },
+    {
+      "id": "6eba",
+      "nombre": "Arturo",
+      "apellido": "Santos Guzman",
+      "edad": 22,
+      "carrera": "Turismo"
+    },
+    {
+      "id": "f037",
+      "nombre": "Alvaro",
+      "apellido": "Navia Ruiz",
+      "edad": 20,
+      "carrera": "Enfermeria"
+    },
+    {
+      "id": "9ed3",
+      "nombre": "Ana",
+      "apellido": "Gonzales Peredo",
+      "edad": 21,
+      "carrera": "Contabilidad"
+    },
+    {
+      "id": "f3c4",
+      "nombre": "Olga",
+      "apellido": "Ramierez Perez",
+      "edad": 19,
+      "carrera": "Auditoria"
+    }
+  ]
+}
